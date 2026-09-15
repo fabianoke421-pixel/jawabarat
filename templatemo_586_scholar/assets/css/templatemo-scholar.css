@@ -837,7 +837,7 @@ Courses Style
 }
 
 .events_item .down-content span.author {
-  color: #7a6ad8;
+  color: #362593;
   font-size: 15px;
   display: inline-block;
   margin-bottom: 6px;
@@ -981,7 +981,7 @@ Team Style
 }
 
 .team-member .main-content ul li a:hover {
-  background-color: #7a6ad8;
+  background-color: #362593;
   color: #fff;
 }
 
@@ -1360,7 +1360,7 @@ Contact Style
   background-color: #fff;
   padding: 0px 25px;
   border-radius: 25px;
-  color: #7a6ad8;
+  color: #362593;
   transition: all .4s;
   position: relative;
   z-index: 3;
