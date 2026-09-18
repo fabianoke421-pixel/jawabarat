@@ -56,7 +56,16 @@ footer, figcaption {
 html[xmlns] .clearfix {
   display: block;
 }
+.accordion-button a {
+    color: inherit;
+    text-decoration: none;
+    display: block;
+    width: 100%;
+}
 
+.accordion-button a:hover {
+    text-decoration: underline;
+}
 * html .clearfix {
   height: 1%;
 }
@@ -1844,4 +1853,5 @@ body {
     display: inline-block;
     margin: 0px 10px;
   }
+  
 }
