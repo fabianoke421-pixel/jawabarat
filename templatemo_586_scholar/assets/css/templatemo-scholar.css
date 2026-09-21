@@ -704,7 +704,7 @@ About Style
 h2.accordion-header button {
   padding: 15px 25px;
   font-family: 'Poppins';
-  font-size: 16px;
+  font-size: 13px;
   font-weight: 600;
 }
 
@@ -1853,5 +1853,15 @@ body {
     display: inline-block;
     margin: 0px 10px;
   }
-  
+  .accordion-body a {
+    color: #2b5cff;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.accordion-body a:hover {
+    color: #ff6600;
+    text-decoration: underline;
+}
+
 }
